@@ -97,11 +97,6 @@ Purchase from Deployer contract.
 
 BalanceOf fucntion call. 
 
-[![Screen-Recording-2022-09-13-at-6.29.30-PM.gif](https://s5.gifyu.com/images/Screen-Recording-2022-09-13-at-6.29.30-PM.gif)](https://gifyu.com/image/SwOYm)
-
-Recording showing successful purchase, Metamask integration, and wei raised function call. 
-
-
 ![<alt text>](https://i.postimg.cc/DZjmt7fs/Screen-Shot-2022-09-13-at-6-28-15-PM.png)
 
 Ganache devnet transaction hash.
