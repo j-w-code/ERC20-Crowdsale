@@ -88,6 +88,15 @@ Transaction hash on local ganache testnet.
 
 ## Further Evaluation Evidence
 
+
+![<alt text>](https://i.postimg.cc/L4jjJ1s0/Screen-Shot-2022-09-13-at-6-26-41-PM.png)
+
+Purchase from Deployer contract. 
+
+![<alt text>](https://i.postimg.cc/pr1mwRZ4/Screen-Shot-2022-09-13-at-6-26-54-PM.png)
+
+BalanceOf fucntion call. 
+
 [![Screen-Recording-2022-09-13-at-6.29.30-PM.gif](https://s5.gifyu.com/images/Screen-Recording-2022-09-13-at-6.29.30-PM.gif)](https://gifyu.com/image/SwOYm)
 
 Recording showing successful purchase, Metamask integration, and wei raised function call. 
